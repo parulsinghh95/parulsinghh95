@@ -15,13 +15,6 @@
 :sparkling_heart: I volunteer with CodeYourFuture, who are an awesome organisation providing a coding education to the people who are under-represented in tech; refugees, asylum seekers, BAME peeps and women. Most of my work is on the personal development team as this is where my expertise as a recruiter comes in handy. 
 
 
-### Let's Connect :coffee:
-<p align="center">
-	<a href="https://www.linkedin.com/in/thecodingrecruiter1/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/parulsingh1995"><img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
-</p>
-
-
 
 
 
